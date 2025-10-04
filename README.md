@@ -36,6 +36,8 @@ All security tools and PoCs listed here are intended **only** for legal, authori
 
 ---
 ## 🛠 Projects — Cybersecurity / Tools
+[Note] Many security tools and PoCs I developed are **kept private** for safety and ethical reasons and therefore are not listed publicly. Public repos contain only sanitized, educational examples and demo artifacts.
+
 - [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
 - [MAC Changer](https://github.com/ThanosEL/MAC-Changer) - Mac Changer python script
 
