@@ -41,6 +41,7 @@ All security tools and PoCs listed here are intended **only** for legal, authori
 
 - [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
 - [MAC Changer](https://github.com/ThanosEL/MAC-Changer) - Mac Changer python script
+- (https://github.com/ThanosEL/automating_enumeration)
 
 ## 🚀 Projects — Web Development
 - [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (HTML/CSS/JS)  
