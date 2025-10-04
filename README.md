@@ -1,6 +1,4 @@
 ## Organization Reference
-
-These projects were previously organized under my GitHub Organization: [thanos-el-greco](https://github.com/thanos-el-greco).  
 The organization was used to group web development and cybersecurity projects for better structure.
 
 # PROJECTS
