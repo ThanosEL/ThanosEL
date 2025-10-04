@@ -36,7 +36,7 @@ All security tools and PoCs listed here are intended **only** for legal, authori
 
 ---
 ## 🛠 Projects — Cybersecurity / Tools
-
+- [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
 
 ## 🚀 Projects — Web Development
 - [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (HTML/CSS/JS)  
