@@ -35,22 +35,14 @@ My main focus areas are **networking, Linux, and cybersecurity**. I prefer hands
 All security tools and PoCs listed here are intended **only** for legal, authorized testing and learning in environments where you have permission. Misuse is prohibited.
 
 ---
+## 🛠 Projects — Cybersecurity / Tools
+
 
 ## 🚀 Projects — Web Development
 - [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (HTML/CSS/JS)  
 - [Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog) — Microblog app with Python backend  
 - [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast app using external APIs  
 - [Habit Tracker App](https://github.com/thanos-el-greco/Habit-Tracker-App) — Simple habit tracking application
-
----
-
-## 🛠 Projects — Cybersecurity / Tools
-
-
----
-
-## 📫 Contact
-- GitHub: [github.com/thanos-el-greco](https://github.com/thanos-el-greco)  
 
 ---
 
