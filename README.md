@@ -12,22 +12,22 @@ My main focus areas are **networking, Linux, and cybersecurity**. I prefer hands
 ---
 
 ## 🎓 Education
--  **Bachelor** in *Computer Engineer/Networking*
--  **MSc** in *Software Engineering*
+-  **Bachelor** *Computer Engineer/Networking*
+-  **MSc** *Software Engineering*
 
 ---
 
 ## 💼 Current role
 - **Position:** System Administrator  
-- **Primary responsibilities:** server management, network administration, automation, basic infra security.
+- **Primary responsibilities:** server management, network administration, automation, cloud, basic infra security.
 
 ---
 
 ## 🛠 Technical skills
-- **Networking / SysAdmin:** routing, switching, Linux servers, virtualization (VMs).  
-- **Security / Pentesting:** reconnaissance, scripting, PoCs — ethics and authorization first.  
-- **Development:** Python, web stacks (HTML/CSS/JS), small full‑stack demos.  
-- **Tools & platforms:** Git/GitHub, GNS3, Kali, Parrot, VS Code, CI (GitHub Actions).
+- **Networking / SysAdmin:** TCP/IP stack, OSI, Linux servers, virtualization (VMs).  
+- **Security / Pentesting:** reconnaissance(active,passive), Active Directory Attacks, Network Pentest — ethics and authorization first.  
+- **Development\Scripting:** Python, C, Java, Bash.  
+- **Tools & platforms:** GNS3, Kali, Parrot, Ubuntu, VS Code.
 
 ---
 
