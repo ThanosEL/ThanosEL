@@ -12,8 +12,7 @@ My main focus areas are **networking, Linux, and cybersecurity**. I prefer hands
 ---
 
 ## 🎓 Education
-## 🎓 Education
-![Bachelor](https://img.shields.io/badge/Bachelor-Computer%20Engineering-blue)  
+![Bachelor](https://img.shields.io/badge/Bachelor-Computer%20Engineering%20%2F%20Networking-blue)  
 ![MSc](https://img.shields.io/badge/MSc-Software%20Engineering-green)
 
 ---
