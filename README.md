@@ -1,9 +1,15 @@
-##Hi There! 👋
+## Organization Reference
 
-#About me
+These projects were previously organized under my GitHub Organization: [thanos-el-greco](https://github.com/thanos-el-greco).  
+The organization was used to group web development and cybersecurity projects for better structure.
 
-- 🔒 Passionate about Software Engineering, Linux systems, low level-programming and Cybersecurity.
-- 🤔 Currently learning new techniques in both software development and penetration testing.
-- 🎓 Recently finished my MSc in Software Engineering.
-- 💡 Always eager to collaborate on software development and open-source projects.
-- ⚡ Fun fact: I love exploring and adventuring in nature, and I've climbed more than 10 mountain peaks in Greece!
+# PROJECTS
+
+This repository gathers all my personal projects.
+
+## Web Development Projects
+
+- [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio, HTML/CSS/JS
+- [Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog) — Microblog application with Python backend
+- [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast application using API
+- [Habit Tracker App](https://github.com/thanos-el-greco/Habit-Tracker-App) — Habit tracking application
