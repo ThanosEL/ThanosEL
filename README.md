@@ -1,4 +1,4 @@
-# Thanos — Projects & Profile 👋
+# Projects & Profile 👋
 
 System Administrator · Networking & InfoSec background · MSc Software Engineering  
 "Practical, disciplined and improvement‑oriented — I build, test and learn."
