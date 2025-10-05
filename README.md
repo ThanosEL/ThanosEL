@@ -44,9 +44,9 @@ All security tools and PoCs listed here are intended **only** for legal, authori
 - [Automating Enumeration](https://github.com/ThanosEL/automating_enumeration) - Automating Bash Script with assetfinder, httprobe
 
 ## 🚀 Projects — Web Development
-- [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (HTML/CSS/JS)  
+- [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (Flutter)  
 - [Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog) — Microblog app with Python backend  
-- [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast app using external APIs  
+- [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast app using external APIs & Flutter
 - [Habit Tracker App](https://github.com/thanos-el-greco/Habit-Tracker-App) — Simple habit tracking application
 
 ---
