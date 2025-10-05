@@ -27,7 +27,7 @@ My main focus areas are **networking, Linux, and cybersecurity**. I prefer hands
 - **Networking / SysAdmin:** TCP/IP stack, OSI, Linux servers, virtualization (VMs).  
 - **Security / Pentesting:** reconnaissance(active,passive), Active Directory Attacks, Network Pentest — ethics and authorization first.  
 - **Development\Scripting:** Python, C, Java, Bash.  
-- **Tools & platforms:** GNS3, Kali, Parrot, Ubuntu, VS Code.
+- **Tools & platforms:** GNS3, Kali, Parrot, Ubuntu, VIM.
 
 ---
 
