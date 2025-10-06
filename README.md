@@ -42,6 +42,7 @@ All security tools and PoCs listed here are intended **only** for legal, authori
 - [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
 - [MAC Changer](https://github.com/ThanosEL/MAC-Changer) - Mac Changer python script
 - [Automating Enumeration](https://github.com/ThanosEL/automating_enumeration) - Automating Bash Script with assetfinder, httprobe
+- [NetCat](https://github.com/ThanosEL/NetCat) - A simple TCP client/server tool, known as nc or netcat written in Python3
 
 ## 🚀 Projects — Web Development
 - [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (Flutter)  
