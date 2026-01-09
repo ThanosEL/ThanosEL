@@ -38,6 +38,7 @@
 
 ## 🌐 Web Applications & Machine Learning
 - [Load Approval](https://github.com/ThanosEL/Loan_Approval/tree/main) - Machine Learning Banking Project
+- [Bank App](https://github.com/ThanosEL/Bank-Management/tree/main) - Bank Backend App with Flask
 - [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (Flutter)  
 - [Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog) — Microblog app with Python backend  
 - [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast app using external APIs & Flutter
