@@ -37,7 +37,7 @@
 - [NetCat](https://github.com/ThanosEL/NetCat) - A simple TCP client/server tool, known as nc or netcat written in Python3
 
 ## 🌐 Web Applications & Machine Learning
-- [Load Approval](https://github.com/ThanosEL/Loan_Approval/tree/main( - Machine Learning Project
+- [Load Approval](https://github.com/ThanosEL/Loan_Approval/tree/main) - Machine Learning Project
 - [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (Flutter)  
 - [Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog) — Microblog app with Python backend  
 - [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast app using external APIs & Flutter
