@@ -43,7 +43,7 @@
 - [Habit Tracker App](https://github.com/thanos-el-greco/Habit-Tracker-App) — Simple habit tracking application
 
 ## 📚 Documentation & Notes
-I keep structues notes and documentation for learning, testing and system design.
+I keep structured notes and documentation for learning, testing and system design.
 - [GO by Example](https://github.com/ThanosEL/Go-by-Example) - GO Documentation
 
 ---
