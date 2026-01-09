@@ -1,13 +1,18 @@
-# Projects & Profile
+# 👨‍💻 Thanos | System & Cloud Administrator
 
-System Administrator · Networking & InfoSec background · MSc Software Engineering  
-"Practical, disciplined and improvement‑oriented — I build, test and learn."
+**Linux • Networking • Cloud • Security**
+
+> Practical, disciplined, improvement-oriented.  
+> I build systems, break them safely, secure them properly.
 
 ---
 
-## 📌 About me
-I live in Greece and I work as a **System Administrator**.  
-My main focus areas are **networking, Linux, and cybersecurity**. I prefer hands‑on learning: building, breaking, fixing.
+## 🔍 Snapshot
+
+- 💼 Role: Cloud & Linux Administrator
+- 🌍 Location: Greece (EU)
+- 🧠 Focus: Linux · Networking · Cloud · Cybersecurity
+- 🛠 Mindset: Hands-on · Automation · Documentation · Ethics-first
 
 ---
 
@@ -23,25 +28,23 @@ My main focus areas are **networking, Linux, and cybersecurity**. I prefer hands
 
 ---
 
-## 🔐 Security note
-All security tools and PoCs listed here are intended **only** for legal, authorized testing and learning in environments where you have permission. Misuse is prohibited.
+## 🛠 Selected Projects
 
----
-## 🛠 Projects — Cybersecurity / Tools
-> Note: Only some cybersecurity projects are public here. Many other security tools/PoCs are kept private for safety and ethical reasons.
-
-- [GO by Example](https://github.com/ThanosEL/Go-by-Example) - GO Documentatio
 - [Shell Scripts](https://github.com/ThanosEL/Shell-Scripts) - Shell Scripts for Automation & Security
 - [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
 - [MAC Changer](https://github.com/ThanosEL/MAC-Changer) - Mac Changer python script
 - [Automating Enumeration](https://github.com/ThanosEL/automating_enumeration) - Automating Bash Script with assetfinder, httprobe
 - [NetCat](https://github.com/ThanosEL/NetCat) - A simple TCP client/server tool, known as nc or netcat written in Python3
 
-## 🚀 Projects — Web Development
+## 🌐 Web & Applications
 - [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (Flutter)  
 - [Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog) — Microblog app with Python backend  
 - [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast app using external APIs & Flutter
 - [Habit Tracker App](https://github.com/thanos-el-greco/Habit-Tracker-App) — Simple habit tracking application
+
+## 📚 Documentation & Notes
+I keep structues notes and documentation for learning, testing and system design.
+- [GO by Example](https://github.com/ThanosEL/Go-by-Example) - GO Documentation
 
 ---
 
@@ -54,7 +57,11 @@ All security tools and PoCs listed here are intended **only** for legal, authori
 
 ---
 
-## ⚙️ How I work / Philosophy
-I follow a hands‑on, disciplined approach: plan thoroughly, test in isolated environments, document everything and respect legal/ethical boundaries.
+## ⚙️ How I work
+- Plan before acting
+- Test in isolated environments
+- Automate repetitive tasks
+- Document everything
+- Respect legal & ethical boundaries
 
 ---
