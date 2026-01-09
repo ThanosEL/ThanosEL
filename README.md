@@ -30,7 +30,7 @@ All security tools and PoCs listed here are intended **only** for legal, authori
 ## 🛠 Projects — Cybersecurity / Tools
 > Note: Only some cybersecurity projects are public here. Many other security tools/PoCs are kept private for safety and ethical reasons.
 
-
+- [GO by Example](https://github.com/ThanosEL/Go-by-Example) - GO Documentatio
 - [Shell Scripts](https://github.com/ThanosEL/Shell-Scripts) - Shell Scripts for Automation & Security
 - [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
 - [MAC Changer](https://github.com/ThanosEL/MAC-Changer) - Mac Changer python script
