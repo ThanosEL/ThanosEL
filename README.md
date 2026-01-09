@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠 Selected Projects
+## 🛠 Scripts
 
 - [Shell Scripts](https://github.com/ThanosEL/Shell-Scripts) - Shell Scripts for Automation & Security
 - [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
@@ -36,7 +36,7 @@
 - [Automating Enumeration](https://github.com/ThanosEL/automating_enumeration) - Automating Bash Script with assetfinder, httprobe
 - [NetCat](https://github.com/ThanosEL/NetCat) - A simple TCP client/server tool, known as nc or netcat written in Python3
 
-## 🌐 Web & Applications
+## 🌐 Web Applications & Machine Learning
 - [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (Flutter)  
 - [Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog) — Microblog app with Python backend  
 - [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast app using external APIs & Flutter
