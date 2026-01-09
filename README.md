@@ -57,6 +57,13 @@ I keep structured notes and documentation for learning, testing and system desig
 
 ---
 
+## ⚠️ Ethical Use Notice
+
+All security-related tools and experiments are performed strictly in
+authorized, isolated environments for educational and defensive purposes.
+
+---
+
 ## ⚙️ How I work
 - Plan before acting
 - Test in isolated environments
