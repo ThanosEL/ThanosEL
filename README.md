@@ -1,4 +1,4 @@
-# Projects & Profile
+# Projects & Profile !
 
 System Administrator · Networking & InfoSec background · MSc Software Engineering  
 "Practical, disciplined and improvement‑oriented — I build, test and learn."
@@ -18,20 +18,12 @@ My main focus areas are **networking, Linux, and cybersecurity**. I prefer hands
 ---
 
 ## 💼 Current role
-- **Position:** System Administrator  
-- **Primary responsibilities:** server management, network administration, automation, cloud, basic infra security.
+- **Position:** Cloud & Linux Administrator  
+- **Primary responsibilities:** Cloud IaaS (AWS,AZR), Servers & Web Servers management, Monitoring, Network administration, Automation & Security
 
 ---
 
-## 🛠 Technical skills
-- **Networking / SysAdmin:** TCP/IP stack, OSI, Linux servers, virtualization (VMs).  
-- **Security / Pentesting:** reconnaissance(active,passive), Active Directory Attacks, Network Pentest — ethics and authorization first.  
-- **Development\Scripting:** Python, C, Java, Bash.  
-- **Tools & platforms:** GNS3, Kali, Parrot, Ubuntu, VIM.
-
----
-
-## 🔐 Cybersecurity note
+## 🔐 Security note
 All security tools and PoCs listed here are intended **only** for legal, authorized testing and learning in environments where you have permission. Misuse is prohibited.
 
 ---
@@ -39,6 +31,7 @@ All security tools and PoCs listed here are intended **only** for legal, authori
 > Note: Only some cybersecurity projects are public here. Many other security tools/PoCs are kept private for safety and ethical reasons.
 
 
+- [Shell Scripts](https://github.com/ThanosEL/Shell-Scripts) - Shell Scripts for Automation & Security
 - [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
 - [MAC Changer](https://github.com/ThanosEL/MAC-Changer) - Mac Changer python script
 - [Automating Enumeration](https://github.com/ThanosEL/automating_enumeration) - Automating Bash Script with assetfinder, httprobe
@@ -53,7 +46,7 @@ All security tools and PoCs listed here are intended **only** for legal, authori
 ---
 
 ## ⚡ Interests & Hobbies
-- Ethical hacking & cybersecurity research 🛡️  
+- Ethical hacking/cybersecurity, Privacy & Anonymity Research 🛡️  
 - Gaming 🎮  
 - Nature, hiking & outdoor trips 🌲🚶  
 - Traveling & excursions ✈️🗺️
