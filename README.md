@@ -46,7 +46,7 @@
 
 ## 📚 Documentation & Notes
 I keep structured notes and documentation for learning, testing and system design.
-- [GO](https://github.com/ThanosEL/Go-by-Example) - GO Documentation
+- [GO Programming Language](https://github.com/ThanosEL/Go-by-Example) - GO Documentation
 
 ---
 
