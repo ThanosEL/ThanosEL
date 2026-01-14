@@ -40,7 +40,7 @@ Curiosity drives the process. Discipline keeps it safe.
 
 ---
 
-## 🌐 Applications & Experiments
+## 🌐 Applications
 
 * **[Loan Approval](https://github.com/ThanosEL/Loan_Approval/tree/main)** — Machine learning decision system
 * **[Bank App](https://github.com/ThanosEL/Bank-Management/tree/main)** — Flask-based backend service
