@@ -32,7 +32,7 @@ Curiosity drives the process. Discipline keeps it safe.
 
 ### Infrastructure / Security / Networking
 
-* **[Shell Scripts](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups & system tasks
+* **[Shell Script](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups
 * **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
 * **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
 * **[Automating Enumeration](https://github.com/ThanosEL/automating_enumeration)** — Asset discovery pipelines
