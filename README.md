@@ -1,68 +1,86 @@
 ```text
-          _______  _        _______  _______  _______  _______   _________ _______    _______             _______ __________________                   ______  
-|\     /|(  ____ \( \      (  ____ \(  ___  )(       )(  ____ \  \__   __/(  ___  )  (       )|\     /|  (  ____ \\__   __/\__   __/|\     /||\     /|(  ___ \ 
-| )   ( || (    \/| (      | (    \/| (   ) || () () || (    \/     ) (   | (   ) |  | () () |( \   / )  | (    \/   ) (      ) (   | )   ( || )   ( || (   ) )
-| | _ | || (__    | |      | |      | |   | || || || || (__         | |   | |   | |  | || || | \ (_) /   | |         | |      | |   | (___) || |   | || (__/ / 
-| |( )| ||  __)   | |      | |      | |   | || |(_)| ||  __)        | |   | |   | |  | |(_)| |  \   /    | | ____    | |      | |   |  ___  || |   | ||  __ (  
-| || || || (      | |      | |      | |   | || |   | || (           | |   | |   | |  | |   | |   ) (     | | \_  )   | |      | |   | (   ) || |   | || (  \ \ 
-| () () || (____/\| (____/\| (____/\| (___) || )   ( || (____/\     | |   | (___) |  | )   ( |   | |     | (___) |___) (___   | |   | )   ( || (___) || )___) )
-(_______)(_______/(_______/(_______/(_______)|/     \|(_______/     )_(   (_______)  |/     \|   \_/     (_______)\_______/   )_(   |/     \|(_______)|/ \___/ 
-                                                                                                                                                               
+ __  __          ___    ___                    ___                               __         
+/\ \ /\ \        /\_ \  /\_ \                 /'___\        __                   /\ \        
+\ \ \_\ \     __\//\ \ \//\ \     ___       /\ \__/  _ __ /\_\     __    ___    \_\ \       
+ \ \  _  \  /'__`\\ \ \  \ \ \   / __`\     \ \ ,__\/\`'__\/\ \  /'__`\/' _ `\  /'_` \      
+  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \__   \ \ \_/\ \ \/ \ \ \/\  __//\ \/\ \/\ \L\ \  __
+   \ \_\ \_\ \____\/\____\/\____\ \____/\ \   \ \_\  \ \_\  \ \_\ \____\ \_\ \_\ \___,_\/\_\
+    \/_/\/_/\/____/\/____/\/____/\/___/\ \/    \/_/   \/_/   \/_/\/____/\/_/\/_/\/__,_ /\/_/
+                                        \/                                                  
 ```
 
----
-
-## 🎓 Education
-![Bachelor](https://img.shields.io/badge/Bachelor-Computer%20Engineering%20%2F%20Networking-blue)  
-![MSc](https://img.shields.io/badge/MSc-Software%20Engineering-green)
+> Hello, friend.
+>
+> Exploring systems beyond the surface.
 
 ---
 
-## 💼 Current role
-- **Position:** Cloud & Linux Administrator  
-- **Primary responsibilities:** Cloud IaaS (AWS,AZR), Servers & Web Servers management, Monitoring, Network administration, Automation & Security
+## 🧭 Who am I
+
+I work close to the core of systems — where infrastructure, automation and security intersect.
+Curiosity drives the process. Discipline keeps it safe.
 
 ---
 
-## 🛠 Scripts
+## 🕶️ Current Focus
 
-- [Shell Scripts](https://github.com/ThanosEL/Shell-Scripts) - Backup Shell Script
-- [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
-- [MAC Changer](https://github.com/ThanosEL/MAC-Changer) - Mac Changer python script
-- [Automating Enumeration](https://github.com/ThanosEL/automating_enumeration) - Automating Bash Script with assetfinder, httprobe
-- [NetCat](https://github.com/ThanosEL/NetCat) - A simple TCP client/server tool, known as nc or netcat written in Python3
+* Cloud infrastructure & Linux environments
+* Servers, web services & monitoring
+* Network operations & automation
+* Security-aware system design
 
-## 🌐 Web Applications & Machine Learning
-- [Load Approval](https://github.com/ThanosEL/Loan_Approval/tree/main) - Machine Learning Banking Project
-- [Bank App](https://github.com/ThanosEL/Bank-Management/tree/main) - Bank Backend App with Flask
-- [Portfolio Website](https://github.com/thanos-el-greco/portfolio-website) — Personal portfolio (Flutter)  
-- [Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog) — Microblog app with Python backend  
-- [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast app using external APIs & Flutter
-- [Habit Tracker App](https://github.com/thanos-el-greco/Habit-Tracker-App) — Simple habit tracking application
+*(AWS & Azure IaaS, scripting, hardening, observability)*
 
 ---
 
-## ⚡ Interests & Hobbies
-- Ethical hacking/cybersecurity, Privacy & Anonymity Research 🛡️  
-- Gaming 🎮  
-- Nature, hiking & outdoor trips 🌲🚶  
-- Traveling & excursions ✈️🗺️
-- Gymnastics/Athletic
+## 🛠 Projects & Tools
+
+### Infrastructure / Security / Networking
+
+* **[Shell Scripts](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups & system tasks
+* **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
+* **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
+* **[Automating Enumeration](https://github.com/ThanosEL/automating_enumeration)** — Asset discovery pipelines
+* **[NetCat](https://github.com/ThanosEL/NetCat)** — TCP client/server tool written in Python
 
 ---
 
-## ⚠️ Ethical Use Notice
+## 🌐 Applications & Experiments
 
-All security-related tools and experiments are performed strictly in
-authorized, isolated environments for educational and defensive purposes.
+* **[Loan Approval](https://github.com/ThanosEL/Loan_Approval/tree/main)** — Machine learning decision system
+* **[Bank App](https://github.com/ThanosEL/Bank-Management/tree/main)** — Flask-based backend service
+* **[Portfolio Website](https://github.com/thanos-el-greco/portfolio-website)** — Flutter personal site
+* **[Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog)** — Lightweight backend app
+* **[Weather App](https://github.com/thanos-el-greco/Weather-App)** — API-driven Flutter application
+* **[Habit Tracker App](https://github.com/thanos-el-greco/Habit-Tracker-App)** — Minimal productivity tool
+
+---
+
+## ⚡ Interests
+
+* Offensive & defensive security research
+* Privacy, anonymity & threat modeling
+* Linux internals & automation
+* Fitness, nature & long walks away from screens
 
 ---
 
-## ⚙️ How I work
-- Plan before acting
-- Test in isolated environments
-- Automate repetitive tasks
-- Document everything
-- Respect legal & ethical boundaries
+## ⚠️ Ethical Boundary
+
+All security-related work is conducted **only** in authorized, isolated environments.
+Knowledge is used to understand, defend and improve systems — never to harm.
 
 ---
+
+## ⚙️ Operating Principles
+
+* Observe before acting
+* Isolate before testing
+* Automate what repeats
+* Document what matters
+* Respect the system — and the law
+
+---
+
+> The system isn’t broken.
+> It’s just waiting to be understood.
