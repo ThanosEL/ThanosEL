@@ -19,12 +19,11 @@ Curiosity drives the process. Discipline keeps it safe.
 
 ## 🕶️ Current Focus
 
+* Ethical Hacking
 * Cloud infrastructure & Linux environments
 * Servers, web services & monitoring
 * Network operations & automation
 * Security-aware system design
-
-*(AWS & Azure IaaS, scripting, hardening, observability)*
 
 ---
 
