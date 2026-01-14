@@ -30,7 +30,7 @@
 
 ## 🛠 Scripts
 
-- [Shell Scripts](https://github.com/ThanosEL/Shell-Scripts) - Shell Scripts for Automation & Security
+- [Shell Scripts](https://github.com/ThanosEL/Shell-Scripts) - Backup Shell Script
 - [Network Scanner](https://github.com/ThanosEL/Network-Scanner) - Network Discovery for active hosts
 - [MAC Changer](https://github.com/ThanosEL/MAC-Changer) - Mac Changer python script
 - [Automating Enumeration](https://github.com/ThanosEL/automating_enumeration) - Automating Bash Script with assetfinder, httprobe
@@ -43,10 +43,6 @@
 - [Python Web Microblog](https://github.com/thanos-el-greco/python-web-microblog) — Microblog app with Python backend  
 - [Weather App](https://github.com/thanos-el-greco/Weather-App) — Weather forecast app using external APIs & Flutter
 - [Habit Tracker App](https://github.com/thanos-el-greco/Habit-Tracker-App) — Simple habit tracking application
-
-## 📚 Documentation & Notes
-I keep structured notes and documentation for learning, testing and system design.
-- [GO Programming Language](https://github.com/ThanosEL/Go-by-Example) - GO Documentation
 
 ---
 
