@@ -32,6 +32,7 @@ Curiosity drives the process. Discipline keeps it safe.
 
 ### Infrastructure / Security / Networking
 
+* **[Vulnerability Scanner](https://github.com/ThanosEL/Vulnerability_Scanner)** - XSS Vulnerability Scanner
 * **[Shell Script](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups
 * **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
 * **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
