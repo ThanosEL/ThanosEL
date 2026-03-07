@@ -31,6 +31,7 @@ Curiosity drives the process. Discipline keeps it safe.
 
 ### Infrastructure / Security / Networking
 
+* **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** - Vim Text editor & Golang
 * **[Vulnerability Scanner](https://github.com/ThanosEL/Vulnerability_Scanner)** - XSS Vulnerability Scanner
 * **[Shell Script](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups
 * **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
