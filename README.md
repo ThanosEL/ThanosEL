@@ -31,6 +31,7 @@ Curiosity drives the process. Discipline keeps it safe.
 
 ### Infrastructure / Security / Networking
 
+* **[domain-finder Tool](https://github.com/ThanosEL/domain-finder)** - A command line tool to search for available domains
 * **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** - Vim Text editor & Golang
 * **[Vulnerability Scanner](https://github.com/ThanosEL/Vulnerability_Scanner)** - XSS Vulnerability Scanner
 * **[Shell Script](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups
