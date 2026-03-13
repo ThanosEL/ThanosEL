@@ -20,11 +20,11 @@ Questions are tools. Answers are architecture.
 
 ## 🌀 Areas of Fascination
 
-* Ethical Hacking
-* Cloud infrastructure & Linux environments
-* Servers, web services & monitoring
-* Network operations & automation
-* Security-aware system design
+• The Penetration Paradox
+• Cloud Entities & Substrate Philosophy
+• Recursive Monitoring & Silent Orchestration
+• Networks Beyond Conventional Topology
+• Security as the Unmeasurable Variable
 
 ---
 
