@@ -14,10 +14,11 @@
 
 I work close to the core of systems — where infrastructure, automation and security intersect.
 Curiosity drives the process. Discipline keeps it safe.
+Questions are tools. Answers are architecture.
 
 ---
 
-## 🕶️ Current Focus
+## 🌀 Areas of Fascination
 
 * Ethical Hacking
 * Cloud infrastructure & Linux environments
@@ -53,12 +54,12 @@ Curiosity drives the process. Discipline keeps it safe.
 
 ---
 
-## ⚡ Interests
+## ⚡ Vectors of Interest
 
-* Offensive & defensive security research
-* Privacy, anonymity & threat modeling
-* Linux internals & automation
-* Fitness, nature & long walks away from screens
+* The bilateral art of access & denial
+* Erasing traces & predicting threats
+* Operating at the kernel boundary
+* Finding silence in untamed spaces
 
 ---
 
@@ -69,13 +70,13 @@ Knowledge is used to understand, defend and improve systems — never to harm.
 
 ---
 
-## ⚙️ Operating Principles
+## ⚙️ The Unwritten Rules
 
-* Observe before acting
-* Isolate before testing
-* Automate what repeats
-* Document what matters
-* Respect the system — and the law
+* See before you strike
+* Contain before you disrupt
+* Codify what survives repetition
+* Preserve what claims permanence
+* Dance with the system, respect the perimeter
 
 ---
 
