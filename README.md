@@ -45,6 +45,7 @@ Questions are tools. Answers are architecture.
 
 ## 🌐 Applications
 
+* **[Chat Application](https://github.com/ThanosEL/Chat-Application)** — Chat Application with OAuth2
 * **[Loan Approval](https://github.com/ThanosEL/Loan_Approval/tree/main)** — Machine learning decision system
 * **[Bank App](https://github.com/ThanosEL/Bank-Management/tree/main)** — Flask-based backend service
 * **[Portfolio Website](https://github.com/thanos-el-greco/portfolio-website)** — Flutter personal site
