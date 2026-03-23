@@ -38,7 +38,7 @@ Questions are tools. Answers are architecture.
 * **[Vulnerability Scanner](https://github.com/ThanosEL/Vulnerability_Scanner)** - XSS Vulnerability Scanner
 * **[Shell Script](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups
 * **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
-* **[MAC Changer in Go](https://github.com/ThanosEL/mac_changer-go)- Mac changer script
+* **[MAC Changer in Go](https://github.com/ThanosEL/mac_changer-go)** - Mac changer script
 * **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
 * **[Automating Enumeration](https://github.com/ThanosEL/automating_enumeration)** — Asset discovery pipelines
 * **[NetCat](https://github.com/ThanosEL/NetCat)** — TCP client/server tool written in Python
