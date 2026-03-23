@@ -32,6 +32,7 @@ Questions are tools. Answers are architecture.
 
 ### Infrastructure / Security / Networking
 
+* **[TCP Scanner](https://github.com/ThanosEL/tcp_scanner-go)** - Very fast tcp scanner, using go concurrency & GoNmap
 * **[domain-finder Tool](https://github.com/ThanosEL/domain-finder)** - A command line tool to search for available domains
 * **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** - Vim Text editor & Golang
 * **[Vulnerability Scanner](https://github.com/ThanosEL/Vulnerability_Scanner)** - XSS Vulnerability Scanner
