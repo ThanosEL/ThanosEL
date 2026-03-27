@@ -32,6 +32,7 @@ Questions are tools. Answers are architecture.
 
 ### Infrastructure / Security / Networking
 
+* **[Go Modules](https://github.com/ThanosEL/toolkit)** - Create a reusable Go modules with commonly used tools
 * **[TCP Scanner](https://github.com/ThanosEL/tcp_scanner-go)** - Very fast tcp scanner, using go concurrency & GoNmap
 * **[domain-finder Tool](https://github.com/ThanosEL/domain-finder)** - A command line tool to search for available domains
 * **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** - Vim Text editor & Golang
