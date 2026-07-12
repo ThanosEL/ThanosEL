@@ -33,6 +33,7 @@ Questions are tools. Answers are architecture.
 ### Infrastructure / Security / Networking
 
 * **[AWS-WAF-Sample-Requests-Log-Layer](https://github.com/ThanosEL/AWS-WAF_Sample_Requests_Log_Layer)** - Real-time WAF log pipeline
+* **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** - SSH Client for Remote Operations
 * **[Python_For_Pentesters](https://github.com/ThanosEL/Python_For_Pentesters)** - Basic enumeration scripts
 * **[Go Modules](https://github.com/ThanosEL/toolkit)** - Create a reusable Go modules with commonly used tools
 * **[TCP Scanner](https://github.com/ThanosEL/tcp_scanner-go)** - Very fast tcp scanner, using go concurrency & GoNmap
