@@ -62,15 +62,6 @@ Questions are tools. Answers are architecture.
 
 ---
 
-## ⚡ Vectors of Interest
-
-* The bilateral art of access & denial
-* Erasing traces & predicting threats
-* Operating at the kernel boundary
-* Finding silence in untamed spaces
-
----
-
 ## ⚠️ Ethical Boundary
 
 All security-related work is conducted **only** in authorized, isolated environments.
