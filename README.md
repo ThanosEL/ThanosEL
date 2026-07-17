@@ -30,7 +30,7 @@ Questions are tools. Answers are architecture.
 
 ## 🛠 Projects & Tools
 
-### Infrastructure / Security / Networking
+### Infrastructure / Security / Networking / Cloud
 
 * **[ALB-Monitoring](https://github.com/ThanosEL/ALB-Monitoring)** - AWS Application Load Balancer, Custom Prometheus Exporter (go SDK)
 * **[AWS-WAF-Sample-Requests-Log-Layer](https://github.com/ThanosEL/AWS-WAF_Sample_Requests_Log_Layer)** - Real-time WAF log pipeline
