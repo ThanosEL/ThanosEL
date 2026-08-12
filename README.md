@@ -30,34 +30,40 @@ Questions are tools. Answers are architecture.
 
 ## 🛠 Projects & Tools
 
-### ☁️ Cloud
+### ☁️ Cloud & Infrastructure
 
-* **[ALB-Monitoring](https://github.com/ThanosEL/ALB-Monitoring)** - AWS Application Load Balancer, Custom Prometheus Exporter (go SDK)
-* **[AWS-WAF-Sample-Requests-Log-Layer](https://github.com/ThanosEL/AWS-WAF_Sample_Requests_Log_Layer)** - Real-time WAF log pipeline
-* **[EC2 Operations](https://github.com/ThanosEL/ec2-ops)** - Go SDK automation for EC2 instance creation, and more
+* **[ALB-Monitoring](https://github.com/ThanosEL/ALB-Monitoring)** — AWS Application Load Balancer, custom Prometheus exporter (Go SDK)
+* **[AWS-WAF-Sample-Requests-Log-Layer](https://github.com/ThanosEL/AWS-WAF_Sample_Requests_Log_Layer)** — Real-time WAF log pipeline
+* **[EC2 Operations](https://github.com/ThanosEL/ec2-ops)** — Go SDK automation for EC2 instance creation, and more
 
-### 🛡️ Security & Networking
+### 🎯 Offensive Security
 
-* **[Attack Chain](https://github.com/ThanosEL/Bash-For-Hackers)** - Attack Chain with Bash Scripts
-* **[Python_For_Pentesters](https://github.com/ThanosEL/Python_For_Pentesters)** - Basic enumeration scripts
-* **[Go Modules](https://github.com/ThanosEL/toolkit)** - Create a reusable Go modules with commonly used tools
-* **[TCP Scanner](https://github.com/ThanosEL/tcp_scanner-go)** - Very fast tcp scanner, using go concurrency & GoNmap
-* **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** - SSH Client for Remote Operations
-* **[domain-finder Tool](https://github.com/ThanosEL/domain-finder)** - A command line tool to search for available domains
-* **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** - Vim Text editor & Golang
-* **[Vulnerability Scanner](https://github.com/ThanosEL/Vulnerability_Scanner)** - XSS Vulnerability Scanner
-* **[Shell Script](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups
-* **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
-* **[MAC Changer in Go](https://github.com/ThanosEL/mac_changer-go)** - Mac changer script
-* **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
+* **[Attack Chain](https://github.com/ThanosEL/Bash-For-Hackers)** — Attack chain built with Bash scripts
+* **[Python_For_Pentesters](https://github.com/ThanosEL/Python_For_Pentesters)** — Basic enumeration scripts
+* **[Vulnerability Scanner](https://github.com/ThanosEL/Vulnerability_Scanner)** — XSS vulnerability scanner
 * **[Automating Enumeration](https://github.com/ThanosEL/automating_enumeration)** — Asset discovery pipelines
+* **[domain-finder](https://github.com/ThanosEL/domain-finder)** — Command line tool to search for available domains
+
+### 🌐 Network Tools
+
+* **[TCP Scanner](https://github.com/ThanosEL/tcp_scanner-go)** — Very fast TCP scanner, using Go concurrency & GoNmap
+* **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
 * **[NetCat](https://github.com/ThanosEL/NetCat)** — TCP client/server tool written in Python
+* **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** — SSH client for remote operations
+* **[MAC Changer in Go](https://github.com/ThanosEL/mac_changer-go)** — MAC changer script (Go)
+* **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
+
+### 🧰 Dev Tooling & Automation
+
+* **[Go Modules](https://github.com/ThanosEL/toolkit)** — Reusable Go modules with commonly used tools
+* **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** — Vim text editor & Golang setup
+* **[Shell Script](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups
 
 ---
 
 ## 🌐 Applications
 
-* **[Chat Application](https://github.com/ThanosEL/Chat-Application)** — Chat Application with OAuth2
+* **[Chat Application](https://github.com/ThanosEL/Chat-Application)** — Chat application with OAuth2
 * **[Loan Approval](https://github.com/ThanosEL/Loan_Approval/tree/main)** — Machine learning decision system
 * **[Bank App](https://github.com/ThanosEL/Bank-Management/tree/main)** — Flask-based backend service
 * **[Portfolio Website](https://github.com/thanos-el-greco/portfolio-website)** — Flutter personal site
@@ -84,5 +90,5 @@ Knowledge is used to understand, defend and improve systems — never to harm.
 
 ---
 
-> The system isn’t broken.
-> It’s just waiting to be understood.
+> The system isn't broken.
+> It's just waiting to be understood.
