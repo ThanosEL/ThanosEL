@@ -31,10 +31,11 @@ Questions are tools. Answers are architecture.
 ## 🛠 Projects & Tools
 
 ### ☁️ Cloud & Infrastructure
-
+##### AWS
 * **[ALB-Monitoring](https://github.com/ThanosEL/ALB-Monitoring)** — AWS Application Load Balancer, custom Prometheus exporter (Go SDK)
 * **[AWS-WAF-Sample-Requests-Log-Layer](https://github.com/ThanosEL/AWS-WAF_Sample_Requests_Log_Layer)** — Real-time WAF log pipeline
 * **[EC2 Operations](https://github.com/ThanosEL/ec2-ops)** — Go SDK automation for EC2 instance creation, and more
+
 
 ### 🎯 Offensive Security
 
@@ -51,12 +52,12 @@ Questions are tools. Answers are architecture.
 * **[TCP Scanner](https://github.com/ThanosEL/tcp_scanner-go)** — Very fast TCP scanner, using Go concurrency & GoNmap
 * **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
 * **[NetCat](https://github.com/ThanosEL/NetCat)** — TCP client/server tool written in Python
-* **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** — SSH client for remote operations
 * **[MAC Changer in Go](https://github.com/ThanosEL/mac_changer-go)** — MAC changer script (Go)
 * **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
 
 ### 🧰 Dev Tooling & Automation
 
+* **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** — SSH client for remote operations
 * **[Go Modules](https://github.com/ThanosEL/toolkit)** — Reusable Go modules with commonly used tools
 * **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** — Vim text editor & Golang setup
 * **[Shell Script](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups
