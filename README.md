@@ -39,6 +39,7 @@ Questions are tools. Answers are architecture.
 
 ### 🎯 Offensive Security
 
+* **[Black Hat GO](https://github.com/ThanosEL/Black-Hat-GO_v2)** - Golang related offensive tools
 * **[ARP Spoofing](https://github.com/ThanosEL/arp-spoofing)** - MiTM Using ARP Spoofing
 * **[Attack Chain](https://github.com/ThanosEL/Bash-For-Hackers)** — Attack chain built with Bash scripts
 * **[Python_For_Pentesters](https://github.com/ThanosEL/Python_For_Pentesters)** — Basic enumeration scripts
