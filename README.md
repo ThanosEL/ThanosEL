@@ -32,8 +32,8 @@ Questions are tools. Answers are architecture.
 
 ### 🍓 Raspberry Pi
 
-* **[Wireguard Pi Server](https://github.com/ThanosEL/Wireguard-VPN)** — WireGuard VPN / Raspberry Pi Server + Windows Clients
-* **[TOR Gateway](https://github.com/ThanosEL/TOR-Gateway)** — AnoPi — Raspberry Pi 5 Tor Gateway
+* **[Wireguard Pi Server](https://github.com/ThanosEL/Wireguard-VPN)** — WireGuard VPN / Raspberry Pi Server + Windows Clients `📄 docs`
+* **[TOR Gateway](https://github.com/ThanosEL/TOR-Gateway)** — AnoPi — Raspberry Pi 5 Tor Gateway `📄 docs`
 
 ### ☁️ Cloud & Infrastructure
 ##### AWS
@@ -63,13 +63,13 @@ Questions are tools. Answers are architecture.
 
 ### 🖥️ DevOps / SysAdmin
 
-* **[AD-DC Setup](https://github.com/ThanosEL/AD-DC-Setup)** — Setup Active Directory/Domain Controller
-* **[Master-Master Replication](https://github.com/ThanosEL/Master-Master-Replication)** — High Availability Master-Master Replication for MySQL
-* **[Prometheus Stack](https://github.com/ThanosEL/Prometheus-Stack)** — Prometheus, node exporters setup
-* **[Ansible](https://github.com/ThanosEL/Ansible-Setup)** — Ansible — Installation & Configuration Guide
+* **[AD-DC Setup](https://github.com/ThanosEL/AD-DC-Setup)** — Setup Active Directory/Domain Controller `📄 docs`
+* **[Master-Master Replication](https://github.com/ThanosEL/Master-Master-Replication)** — High Availability Master-Master Replication for MySQL `📄 docs`
+* **[Prometheus Stack](https://github.com/ThanosEL/Prometheus-Stack)** — Prometheus, node exporters setup `📄 docs`
+* **[Ansible](https://github.com/ThanosEL/Ansible-Setup)** — Ansible — Installation & Configuration Guide `📄 docs`
 * **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** — SSH client for remote operations
 * **[Go Modules](https://github.com/ThanosEL/toolkit)** — Reusable Go modules with commonly used tools
-* **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** — Vim text editor & Golang setup
+* **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** — Vim text editor & Golang setup `📄 docs`
 * **[Shell Script](https://github.com/ThanosEL/Shell-Scripts)** — Automated backups
 
 ---
