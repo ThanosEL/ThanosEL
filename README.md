@@ -30,6 +30,10 @@ Questions are tools. Answers are architecture.
 
 ## 🛠 Projects & Tools
 
+### 🍓 Raspberry Pi
+
+* **[Wireguard Pi Server](https://github.com/ThanosEL/Wireguard-VPN)** — WireGuard VPN / Raspberry Pi Server + Windows Clients
+
 ### ☁️ Cloud & Infrastructure
 ##### AWS
 * **[ALB-Monitoring](https://github.com/ThanosEL/ALB-Monitoring)** — AWS Application Load Balancer, custom Prometheus exporter (Go SDK)
