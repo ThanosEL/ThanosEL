@@ -49,15 +49,16 @@ Questions are tools. Answers are architecture.
 
 ### 🌐 Network Tools
 
-* **[Packet Processing](https://github.com/ThanosEL/Packet-Processing)** - Custom Packet Analysis Tool with GO (google/gopacket)
+* **[Packet Processing](https://github.com/ThanosEL/Packet-Processing)** — Custom Packet Analysis Tool with GO (google/gopacket)
 * **[TCP Scanner](https://github.com/ThanosEL/tcp_scanner-go)** — Very fast TCP scanner, using Go concurrency & GoNmap
 * **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
 * **[NetCat](https://github.com/ThanosEL/NetCat)** — TCP client/server tool written in Python
 * **[MAC Changer in Go](https://github.com/ThanosEL/mac_changer-go)** — MAC changer script (Go)
 * **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
 
-### 🧰 Dev Tooling & Automation
+### 🧰 DevOps / Sys Tooling & Automation
 
+* **[Prometheus Stack](https://github.com/ThanosEL/Prometheus-Stack)** — Prometheus, node exporters setup
 * **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** — SSH client for remote operations
 * **[Go Modules](https://github.com/ThanosEL/toolkit)** — Reusable Go modules with commonly used tools
 * **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** — Vim text editor & Golang setup
