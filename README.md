@@ -66,6 +66,7 @@ Questions are tools. Answers are architecture.
 * **[AD-DC Setup](https://github.com/ThanosEL/AD-DC-Setup)** — Setup Active Directory/Domain Controller
 * **[Master-Master Replication](https://github.com/ThanosEL/Master-Master-Replication)** — High Availability Master-Master Replication for MySQL
 * **[Prometheus Stack](https://github.com/ThanosEL/Prometheus-Stack)** — Prometheus, node exporters setup
+* **[Ansible](https://github.com/ThanosEL/Ansible-Setup)** — Ansible — Installation & Configuration Guide
 * **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** — SSH client for remote operations
 * **[Go Modules](https://github.com/ThanosEL/toolkit)** — Reusable Go modules with commonly used tools
 * **[Golang-Vim-go Setup](https://github.com/ThanosEL/Golang-Vim-go-Setup)** — Vim text editor & Golang setup
