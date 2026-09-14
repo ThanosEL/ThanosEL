@@ -33,6 +33,7 @@ Questions are tools. Answers are architecture.
 ### 🍓 Raspberry Pi
 
 * **[Wireguard Pi Server](https://github.com/ThanosEL/Wireguard-VPN)** — WireGuard VPN / Raspberry Pi Server + Windows Clients
+* **[TOR Gateway](https://github.com/ThanosEL/TOR-Gateway)** — AnoPi — Raspberry Pi 5 Tor Gateway
 
 ### ☁️ Cloud & Infrastructure
 ##### AWS
