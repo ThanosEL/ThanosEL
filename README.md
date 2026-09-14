@@ -36,11 +36,11 @@ Questions are tools. Answers are architecture.
 * **[AWS-WAF-Sample-Requests-Log-Layer](https://github.com/ThanosEL/AWS-WAF_Sample_Requests_Log_Layer)** — Real-time WAF log pipeline
 * **[EC2 Operations](https://github.com/ThanosEL/ec2-ops)** — Go SDK automation for EC2 instance creation, and more
 
-### 🎯 Offensive Security
+### 🔴 Offensive Security
 
 * **[Go JWT Auth API Security Lab](https://github.com/ThanosEL/go-jwt-mysql-lab)** — Go REST API authentication, JWT, MySQL and API security testing
 * **[Black Hat GO](https://github.com/ThanosEL/Black-Hat-GO_v2)** - Golang related offensive tools
-* **[ARP Spoofing](https://github.com/ThanosEL/arp-spoofing)** - MiTM Using ARP Spoofing
+* **[ARP Spoofing](https://github.com/ThanosEL/arp-spoofing)** — MiTM Using ARP Spoofing
 * **[Bash Attack Chain](https://github.com/ThanosEL/Bash-For-Hackers)** — Attack chain built with Bash scripts
 * **[Python_For_Pentesters](https://github.com/ThanosEL/Python_For_Pentesters)** — Basic enumeration scripts
 * **[Vulnerability Scanner](https://github.com/ThanosEL/Vulnerability_Scanner)** — XSS vulnerability scanner
@@ -56,9 +56,10 @@ Questions are tools. Answers are architecture.
 * **[MAC Changer in Go](https://github.com/ThanosEL/mac_changer-go)** — MAC changer script (Go)
 * **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
 
-### 🧰 DevOps / Sys Tooling & Automation
+### 🖥️ DevOps / SysAdmin
 
-* **[Master-Master Replication](https://github.com/ThanosEL/Master-Master-Replication)** High Availability Master-Master Replication for MySQL
+* **[AD-DC Setup](https://github.com/ThanosEL/AD-DC-Setup)** — Setup Active Directory/Domain Controller
+* **[Master-Master Replication](https://github.com/ThanosEL/Master-Master-Replication)** — High Availability Master-Master Replication for MySQL
 * **[Prometheus Stack](https://github.com/ThanosEL/Prometheus-Stack)** — Prometheus, node exporters setup
 * **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** — SSH client for remote operations
 * **[Go Modules](https://github.com/ThanosEL/toolkit)** — Reusable Go modules with commonly used tools
