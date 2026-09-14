@@ -58,6 +58,7 @@ Questions are tools. Answers are architecture.
 
 ### 🧰 DevOps / Sys Tooling & Automation
 
+* **[Master-Master Replication](https://github.com/ThanosEL/Master-Master-Replication)** High Availability Master-Master Replication for MySQL
 * **[Prometheus Stack](https://github.com/ThanosEL/Prometheus-Stack)** — Prometheus, node exporters setup
 * **[SSH Client in GO](https://github.com/ThanosEL/ssh_client)** — SSH client for remote operations
 * **[Go Modules](https://github.com/ThanosEL/toolkit)** — Reusable Go modules with commonly used tools
