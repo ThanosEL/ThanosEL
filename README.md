@@ -43,6 +43,7 @@ Questions are tools. Answers are architecture.
 
 ### 🔴 Offensive Security
 
+* **[pcap Extract](https://github.com/ThanosEL/PCAPEXTRACT)** — .pcap Extraction Tool (tcp-flags, http, kerberos(cname), DNS)
 * **[Go JWT Auth API Security Lab](https://github.com/ThanosEL/go-jwt-mysql-lab)** — Go REST API authentication, JWT, MySQL and API security testing
 * **[Black Hat GO](https://github.com/ThanosEL/Black-Hat-GO_v2)** - Golang related offensive tools
 * **[ARP Spoofing](https://github.com/ThanosEL/arp-spoofing)** — MiTM Using ARP Spoofing
