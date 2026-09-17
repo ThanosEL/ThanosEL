@@ -62,8 +62,9 @@ Questions are tools. Answers are architecture.
 * **[MAC Changer in Go](https://github.com/ThanosEL/mac_changer-go)** — MAC changer script (Go)
 * **[MAC Changer](https://github.com/ThanosEL/MAC-Changer)** — Interface identity manipulation
 
-### 🖥️ DevOps / SysAdmin
+### 🖥️ SYS
 
+* **[Log Analyzer](https://github.com/ThanosEL/Log-Analyzer)** — Access Log analysis Tool
 * **[AD-DC Setup](https://github.com/ThanosEL/AD-DC-Setup)** — Setup Active Directory/Domain Controller `📄 docs`
 * **[Master-Master Replication](https://github.com/ThanosEL/Master-Master-Replication)** — High Availability Master-Master Replication for MySQL `📄 docs`
 * **[Prometheus Stack](https://github.com/ThanosEL/Prometheus-Stack)** — Prometheus, node exporters setup `📄 docs`
