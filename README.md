@@ -55,6 +55,7 @@ Questions are tools. Answers are architecture.
 
 ### 🌐 Network Tools
 
+* **[Metasploit RPC](https://github.com/ThanosEL/metasploit-RPC-API)** — Metasploit RPC automation pipeline scripts
 * **[Packet Processing](https://github.com/ThanosEL/Packet-Processing)** — Custom Packet Analysis Tool with GO (google/gopacket)
 * **[TCP Scanner](https://github.com/ThanosEL/tcp_scanner-go)** — Very fast TCP scanner, using Go concurrency & GoNmap
 * **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
