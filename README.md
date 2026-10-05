@@ -43,6 +43,7 @@ Questions are tools. Answers are architecture.
 
 ### 🔴 Offensive Security
 
+* **[Metasploit RPC](https://github.com/ThanosEL/metasploit-RPC-API)** — Metasploit RPC automation pipeline scripts
 * **[pcap Extract](https://github.com/ThanosEL/PCAPEXTRACT)** — .pcap Extraction Tool (tcp-flags, http, kerberos(cname), DNS)
 * **[Go JWT Auth API Security Lab](https://github.com/ThanosEL/go-jwt-mysql-lab)** — Go REST API authentication, JWT, MySQL and API security testing
 * **[Black Hat GO](https://github.com/ThanosEL/Black-Hat-GO_v2)** - Golang related offensive tools
@@ -55,7 +56,6 @@ Questions are tools. Answers are architecture.
 
 ### 🌐 Network Tools
 
-* **[Metasploit RPC](https://github.com/ThanosEL/metasploit-RPC-API)** — Metasploit RPC automation pipeline scripts
 * **[Packet Processing](https://github.com/ThanosEL/Packet-Processing)** — Custom Packet Analysis Tool with GO (google/gopacket)
 * **[TCP Scanner](https://github.com/ThanosEL/tcp_scanner-go)** — Very fast TCP scanner, using Go concurrency & GoNmap
 * **[Network Scanner](https://github.com/ThanosEL/Network-Scanner)** — Active host discovery
