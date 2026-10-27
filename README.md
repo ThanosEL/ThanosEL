@@ -43,6 +43,7 @@ Questions are tools. Answers are architecture.
 
 ### 🔴 Offensive Security
 
+* **[Web Pentesting Scanner](https://github.com/ThanosEL/Web-Pentesting-Scanner)** - Scanner that detects, xxs, idor, sqli, cmdi, etc
 * **[Metasploit RPC](https://github.com/ThanosEL/metasploit-RPC-API)** — Metasploit RPC automation pipeline scripts
 * **[pcap Extract](https://github.com/ThanosEL/PCAPEXTRACT)** — .pcap Extraction Tool (tcp-flags, http, kerberos(cname), DNS)
 * **[Go JWT Auth API Security Lab](https://github.com/ThanosEL/go-jwt-mysql-lab)** — Go REST API authentication, JWT, MySQL and API security testing
